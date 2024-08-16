@@ -46,4 +46,4 @@ The backend uses `axios` to make authenticated `POST` requests to the external A
 
 1. Install dependencies:
    ```bash
-   npm install
+   npm install cors axios express 
