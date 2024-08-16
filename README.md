@@ -17,7 +17,7 @@ The challenge involves:
 
 ## How It Works
 
-### Backend (`server.js`)
+### Backend (`check.js`) // server side
 
 - **Route**: `/result`
 - **Method**: `GET`
