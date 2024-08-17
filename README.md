@@ -1,5 +1,4 @@
-# internship-code-challenge
-# Data Booster Intern Challenge
+# internship-coding-challenge
 
 This project is a simple application that interacts with a challenge API, retrieving data through multiple requests using a cursor-based mechanism until a hidden flag is found. It consists of a backend server using Node.js with Express and a frontend that displays the data received from the API.
 
